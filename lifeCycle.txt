@@ -1,0 +1,10 @@
+LifeCycle chia làm 4 phần tương ứng với các qúa trình hoạt động: 
+    - init: 
+        + Quá trình khởi taọ một components
+        + Đặt biến, lấy props và khai báo states
+    - mounting: 
+        + Những hàm kết nối và hiển thị component ra trình duyệt
+        + Trước khi hiển thị 
+        + Sau khi hiển thị
+    - update: thay đổi giá trị tăng giảm, thao tác với giá trị
+    - unmounting: huỷ bỏ gắn kết
